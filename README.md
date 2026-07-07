@@ -1,16 +1,105 @@
-# React + Vite
+# 🌐 Text Translator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Text Translator Web Application** built using **React.js** and **Vite**. This application allows users to translate text between different languages using a translation API with a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 🌍 Translate text into multiple languages
+- 🔄 Swap source and target languages
+- 📋 Copy translated text
+- 🎨 Clean and responsive UI
+- ⚡ Fast performance with React + Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- JavaScript (ES6)
+- HTML5
+- TailwindCSS
+- Translation API
+
+---
+
+## 📂 Project Structure
+
+```
+text_translator/
+│── public/
+│── src/
+│── package.json
+│── package-lock.json
+│── vite.config.js
+│── index.html
+│── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Aparnatiwari13/text_translator.git
+```
+
+Go to the project directory
+
+```bash
+cd text_translator
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots of your application here.
+
+Example:
+
+- Home Page
+- Translation Result
+- Language Selection
+
+---
+
+## 🎯 Future Enhancements
+
+- 🌙 Dark Mode
+- 📝 Translation History
+- ⭐ Favorite Translations
+- 🎤 Voice Input
+- 🔊 Text-to-Speech Support
+
+---
+
+## 👩‍💻 Author
+
+**APARNA TIWARI**
+
+- MCA Student
+- FULL STACK Developer
+- React.js Enthusiast
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, please give it a ⭐ on GitHub.
