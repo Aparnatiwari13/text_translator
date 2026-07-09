@@ -66,20 +66,6 @@ Run the development server
 npm run dev
 ```
 
----
-
-## 📸 Screenshots
-
-> Add screenshots of your application here.
-
-Example:
-
-- Home Page
-- Translation Result
-- Language Selection
-
----
-
 ## 🎯 Future Enhancements
 
 - 🌙 Dark Mode
