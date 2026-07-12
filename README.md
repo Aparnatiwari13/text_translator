@@ -80,7 +80,6 @@ npm run dev
 
 **APARNA TIWARI**
 
-- MCA Student
 - FULL STACK Developer
 - React.js Enthusiast
 
